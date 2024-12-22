@@ -20,11 +20,11 @@ Mitwirkung an Digitalisierungsprojekten und Smart-Factory-Initiativen:
 
 ## Projekte
 
-### Intelligente Überwachung von technischen Systemen - RWTH (Apr 2021 - Jul 2021)
+### Intelligente Überwachung von technischen Systemen @ RWTH (Apr 2021 - Jul 2021)
 Entwickelte ein maschinelles Lernverfahren zur Identifikation von Materialien, die auf einer CNC-Fräsmaschine verarbeitet werden, durch Analyse von hochfrequenten Vibrationsdaten von IMUs mit einer Abtastrate von 1600 Hz. Das System nutzte die Zeit-Frequenz-Analyse, um wesentliche Signalmerkmale zu extrahieren und eine zuverlässige Materialklassifizierung in Echtzeit zu ermöglichen.\
 ![CNC](https://github.com/user-attachments/assets/8e45ddac-6988-4800-ae80-85f92ab6ac1c)
 - Neurales Netzwerk: Erzielte 97,9% Genauigkeit für Kunststoff, was die Materialklassifizierung erheblich verbesserte und die Fehlklassifikationen im Vergleich zu anderen Methoden reduzierte.
 - Dieser datengetriebene Ansatz kombiniert fortschrittliche Signalverarbeitung und maschinelles Lernen und bietet eine skalierbare und automatisierte Lösung für die Zustandsüberwachung in Smart-Manufacturing-Umgebungen.
 
-- ### Fabrikplannung - RWTH (May 2021 - June 2021)
+- ### Fabrikplannung @ RWTH (May 2021 - June 2021)
 Fabrikprojektplan/-konzept für Tesla: Dieses Projekt konzentriert sich auf Marktanalyse, Standortplanung, Produktionsstrukturplanung, Kapazitätsplanung, Gebäude- und Fabrikstrukturplanung.
