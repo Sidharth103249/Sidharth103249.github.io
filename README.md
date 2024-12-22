@@ -3,6 +3,7 @@
 ## Education
 - M.Sc., Networked Production Engineering      RWTH Universität, Aachen\
 „Industrie 4.0"- gesteuerte Produktion und Steuerung von Produktionsprozessen, Einführung in die agile Produktion, fortschreitende Automatisierung und modellbasierte Systemtechnik
+- B.Sc., Automotive Engineering      Anna Universität, Indien\     
 
 ## Work Experience
 ### Wissenschaftliche Hilfskraft @ Fraunhofer-Institut für Produktionstechnologie (Apr 2023 - Mär 2024)
