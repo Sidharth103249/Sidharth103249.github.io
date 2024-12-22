@@ -1,7 +1,7 @@
 # Engineering Solutions for Industry 4.0 & Digitalization
 
 ## Education
-- M.Sc., Networked Production Engineering      RWTH Universität, Aachen\
+- M.Sc., Networked Production Engineering      RWTH Universität, Aachen
 „Industrie 4.0"- gesteuerte Produktion und Steuerung von Produktionsprozessen, Einführung in die agile Produktion, fortschreitende Automatisierung und modellbasierte Systemtechnik
 - B.Sc., Automotive Engineering      Anna Universität, Indien
 
