@@ -1,10 +1,10 @@
 # Engineering Solutions for Industry 4.0 & Digitalization
 Technische Fertigkeiten: Visual Studio 2022, VSCode, Python, Azure IOT, MATLAB, Microsoft Office
 ## Ausbildung
-- M.Sc., Networked Production Engineering      RWTH Universität, Aachen\
+- M.Sc., Networked Production Engineering - RWTH Universität, Aachen\
 „Industrie 4.0"- gesteuerte Produktion und Steuerung von Produktionsprozessen, Einführung in die agile Produktion, fortschreitende Automatisierung und modellbasierte Systemtechnik
 <hr style="border: 0.5px solid gray; width: 50%;">
-- B.Sc., Automotive Engineering      Anna Universität, Indien
+- B.Sc., Automotive Engineering - Anna Universität, Indien
 
 ## Berufserfahrung
 ### Wissenschaftliche Hilfskraft @ Fraunhofer-Institut für Produktionstechnologie (Apr 2023 - Mär 2024)
