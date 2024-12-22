@@ -1,6 +1,6 @@
-#Data Scientist
+# Data Scientist
 Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-##Education
+## Education
 Ph.D., Physics | The University of Texas at Dallas (May 2022)
 M.S., Physics | The University of Texas at Dallas (December 2019)
 B.S., Physics | The University of Texas at Dallas (May 2017)
@@ -13,7 +13,7 @@ Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
 
 Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-##Projects
+## Projects
 Data-Driven EEG Band Discovery with Decision Trees
 Publication
 
@@ -22,6 +22,6 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 EEG Band Discovery
 
 Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-##Publication
+## Publication
 
 Used Matlab to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
