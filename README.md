@@ -1,9 +1,11 @@
 # Data Scientist
 Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
 ## Education
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
+Masterstudium – Networked Production Engineering
+RWTH Universität, Aachen - www.rwth-aachen.de
+„Industrie 4.0"- gesteuerte Produktion und Steuerung von Produktionsprozessen, Einführung in die agile Produktion, fortschreitende Automatisierung und modellbasierte Systemtechnik
+
 ## Work Experience
 Data Scientist @ Toyota Financial Services (June 2022 - Present)
 
