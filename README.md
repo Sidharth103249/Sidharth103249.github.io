@@ -1,4 +1,4 @@
-# Data Scientist
+# Engineering Solutions for Industry 4.0 & Digitalization
 Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
