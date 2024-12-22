@@ -4,19 +4,26 @@ Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 ## Education
 M.Sc. – Networked Production Engineering\
 RWTH Universität, Aachen - www.rwth-aachen.de\
-„Industrie 4.0"- gesteuerte Produktion und Steuerung von Produktionsprozessen, Einführung in die agile Produktion, fortschreitende Automatisierung und modellbasierte Systemtechnik\
+„Industrie 4.0"- gesteuerte Produktion und Steuerung von Produktionsprozessen, Einführung in die agile Produktion, fortschreitende Automatisierung und modellbasierte Systemtechnik
 
 ## Work Experience
-Data Scientist @ Toyota Financial Services (June 2022 - Present)
+Wissenschaftliche Hilfskraft @ Fraunhofer-Institut für Produktionstechnologie (Apr 2023 - Mär 2024)
 
-Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
+Mitwirkung an Digitalisierungsprojekten und Smart-Factory-Initiativen:
+Dashboard-Neugestaltung und Datenintegration: Optimierung der Dashboard-Oberfläche und Migration der Datenbank von InfluxDB zu MongoDB zur Verbesserung der Echtzeitüberwachung. Behebung eines API-Fehlers zur Sicherstellung einer nahtlosen Sensordatenübertragung und 100 % Datenflusszuverlässigkeit.\
+Hardware-Integration und Automatisierung: Integration von Distanzmesssensoren mit Beckhoff IPCs und Automatisierung des Softwarestarts mittels TwinCAT.\
+Maschinenkonnektivität und Systemfeedback: Wiederherstellung der Verbindung zwischen Beckhoff IPC und Siemens 5-Achs-Maschine zur Unterstützung hochpräziser Fertigung und Echtzeit-Fehlerüberwachung über das Dashboard.\
 
-Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+Master Arbeit @ WZL (Apr 2023 - Sep 2023)
+
+• Setzte maschinelles Lernen ein, um Prozesskräfte und Produktqualität im Feinschneiden zu analysieren und die Fertigungspräzision zu verbessern.\
+• Entwickelte Fachwissen in der Datenanalyse, Sensordatenintegration und prädiktiver Modellierung zur Effizienzsteigerung.\
+• Untersuchte den Zusammenhang zwischen Prozesskräften und Produktqualität im Feinschneiden unter Verwendung von maschinellen Lerntechniken.
 ## Projects
-Data-Driven EEG Band Discovery with Decision Trees
+
+Intelligente Überwachung von technischen Systemen
+
+
 Publication
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using Python. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
