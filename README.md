@@ -4,7 +4,7 @@ Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 Ph.D., Physics | The University of Texas at Dallas (May 2022)
 M.S., Physics | The University of Texas at Dallas (December 2019)
 B.S., Physics | The University of Texas at Dallas (May 2017)
-##Work Experience
+## Work Experience
 Data Scientist @ Toyota Financial Services (June 2022 - Present)
 
 Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
