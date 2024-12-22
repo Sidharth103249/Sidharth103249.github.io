@@ -3,7 +3,7 @@ Technische Fertigkeiten: Visual Studio 2022, VSCode, Python, Azure IOT, MATLAB, 
 ## Ausbildung
 - M.Sc., Networked Production Engineering - RWTH Universität, Aachen\
 „Industrie 4.0"- gesteuerte Produktion und Steuerung von Produktionsprozessen, Einführung in die agile Produktion, fortschreitende Automatisierung und modellbasierte Systemtechnik
-<hr style="border: 0.5px solid gray; width: 50%;">
+<hr style="border: 0.2px solid gray; width: 50%;">
 - B.Sc., Automotive Engineering - Anna Universität, Indien
 
 ## Berufserfahrung
@@ -25,10 +25,11 @@ Entwickelte ein maschinelles Lernverfahren zur Identifikation von Materialien, d
 ![CNC](https://github.com/user-attachments/assets/8e45ddac-6988-4800-ae80-85f92ab6ac1c)
 - Neurales Netzwerk: Erzielte 97,9% Genauigkeit für Kunststoff, was die Materialklassifizierung erheblich verbesserte und die Fehlklassifikationen im Vergleich zu anderen Methoden reduzierte.
 - Dieser datengetriebene Ansatz kombiniert fortschrittliche Signalverarbeitung und maschinelles Lernen und bietet eine skalierbare und automatisierte Lösung für die Zustandsüberwachung in Smart-Manufacturing-Umgebungen.
-
+<hr style="border: 0.2px solid gray; width: 50%;">
 ### Fabrikplannung @ RWTH (May 2021 - June 2021)
 Fabrikprojektplan/-konzept für Tesla: Dieses Projekt konzentriert sich auf Marktanalyse, Standortplanung, Produktionsstrukturplanung, Kapazitätsplanung, Gebäude- und Fabrikstrukturplanung.
-
+<hr style="border: 0.2px solid gray; width: 50%;">
 ### Digital Twin of living environemnt (Personal Project) (Dec 2024 - Heute)
 Aufbau eines digitalen Zwillings für die Wohnumgebung mit ESP32 und maschinellem Lernen
 - Erste Schritte zur Implementierung von Systemen zur Überwachung und Vorhersage des Raumtemperaturverhaltens für verbesserten Komfort und Energieeffizienz eingeleitet.
+<hr style="border: 0.2px solid gray; width: 50%;">
