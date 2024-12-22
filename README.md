@@ -2,7 +2,7 @@
 Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-M.Sc. – Networked Production Engineering\
+### M.Sc. – Networked Production Engineering\
 RWTH Universität, Aachen - www.rwth-aachen.de\
 „Industrie 4.0"- gesteuerte Produktion und Steuerung von Produktionsprozessen, Einführung in die agile Produktion, fortschreitende Automatisierung und modellbasierte Systemtechnik
 
