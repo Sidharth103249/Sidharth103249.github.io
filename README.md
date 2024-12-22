@@ -15,23 +15,12 @@ Mitwirkung an Digitalisierungsprojekten und Smart-Factory-Initiativen:\
 - Setzte maschinelles Lernen ein, um Prozesskräfte und Produktqualität im Feinschneiden zu analysieren und die Fertigungspräzision zu verbessern.\
 - Entwickelte Fachwissen in der Datenanalyse, Sensordatenintegration und prädiktiver Modellierung zur Effizienzsteigerung.\
 - Untersuchte den Zusammenhang zwischen Prozesskräften und Produktqualität im Feinschneiden unter Verwendung von maschinellen Lerntechniken.
-## Projects
+## Projekte
 ### Intelligente Überwachung von technischen Systemen
 Entwickelte ein maschinelles Lernverfahren zur Identifikation von Materialien, die auf einer CNC-Fräsmaschine verarbeitet werden, durch Analyse von hochfrequenten Vibrationsdaten von IMUs mit einer Abtastrate von 1600 Hz. Das System nutzte die Zeit-Frequenz-Analyse, um wesentliche Signalmerkmale zu extrahieren und eine zuverlässige Materialklassifizierung in Echtzeit zu ermöglichen.\
 ![CNC](https://github.com/user-attachments/assets/8e45ddac-6988-4800-ae80-85f92ab6ac1c)
-
-
 - Neurales Netzwerk: Erzielte 97,9% Genauigkeit für Kunststoff, was die Materialklassifizierung erheblich verbesserte und die Fehlklassifikationen im Vergleich zu anderen Methoden reduzierte.\
 - Dieser datengetriebene Ansatz kombiniert fortschrittliche Signalverarbeitung und maschinelles Lernen und bietet eine skalierbare und automatisierte Lösung für die Zustandsüberwachung in Smart-Manufacturing-Umgebungen.
 
-
-Publication
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using Python. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-EEG Band Discovery
-
-Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-## Publication
-
-Used Matlab to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- ### Fabrikplannung
+Fabrikprojektplan/-konzept für Tesla: Dieses Projekt konzentriert sich auf Marktanalyse, Standortplanung, Produktionsstrukturplanung, Kapazitätsplanung, Gebäude- und Fabrikstrukturplanung.
