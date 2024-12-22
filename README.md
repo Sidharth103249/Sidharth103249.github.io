@@ -1,5 +1,5 @@
 # Engineering Solutions for Industry 4.0 & Digitalization
-
+Technische Fertigkeiten: Visual Studio 2022, VSCode, Python, Azure IOT, MATLAB, Microsoft Office
 ## Education
 - M.Sc., Networked Production Engineering      RWTH Universität, Aachen\
 „Industrie 4.0"- gesteuerte Produktion und Steuerung von Produktionsprozessen, Einführung in die agile Produktion, fortschreitende Automatisierung und modellbasierte Systemtechnik
