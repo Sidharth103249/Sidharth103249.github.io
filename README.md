@@ -15,6 +15,7 @@ Mitwirkung an Digitalisierungsprojekten und Smart-Factory-Initiativen:\
 - Setzte maschinelles Lernen ein, um Prozesskräfte und Produktqualität im Feinschneiden zu analysieren und die Fertigungspräzision zu verbessern.\
 - Entwickelte Fachwissen in der Datenanalyse, Sensordatenintegration und prädiktiver Modellierung zur Effizienzsteigerung.\
 - Untersuchte den Zusammenhang zwischen Prozesskräften und Produktqualität im Feinschneiden unter Verwendung von maschinellen Lerntechniken.
+
 ## Projekte
 ### Intelligente Überwachung von technischen Systemen
 Entwickelte ein maschinelles Lernverfahren zur Identifikation von Materialien, die auf einer CNC-Fräsmaschine verarbeitet werden, durch Analyse von hochfrequenten Vibrationsdaten von IMUs mit einer Abtastrate von 1600 Hz. Das System nutzte die Zeit-Frequenz-Analyse, um wesentliche Signalmerkmale zu extrahieren und eine zuverlässige Materialklassifizierung in Echtzeit zu ermöglichen.\
