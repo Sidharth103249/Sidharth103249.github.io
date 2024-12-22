@@ -26,5 +26,9 @@ Entwickelte ein maschinelles Lernverfahren zur Identifikation von Materialien, d
 - Neurales Netzwerk: Erzielte 97,9% Genauigkeit für Kunststoff, was die Materialklassifizierung erheblich verbesserte und die Fehlklassifikationen im Vergleich zu anderen Methoden reduzierte.
 - Dieser datengetriebene Ansatz kombiniert fortschrittliche Signalverarbeitung und maschinelles Lernen und bietet eine skalierbare und automatisierte Lösung für die Zustandsüberwachung in Smart-Manufacturing-Umgebungen.
 
-- ### Fabrikplannung @ RWTH (May 2021 - June 2021)
+### Fabrikplannung @ RWTH (May 2021 - June 2021)
 Fabrikprojektplan/-konzept für Tesla: Dieses Projekt konzentriert sich auf Marktanalyse, Standortplanung, Produktionsstrukturplanung, Kapazitätsplanung, Gebäude- und Fabrikstrukturplanung.
+
+### Digital Twin of living environemnt (Personal Project) (Dec 2024 - Heute)
+Aufbau eines digitalen Zwillings für die Wohnumgebung mit ESP32 und maschinellem Lernen
+- erste Schritte zur Implementierung von Systemen zur Überwachung und Vorhersage des Raumtemperaturverhaltens für verbesserten Komfort und Energieeffizienz eingeleitet.
