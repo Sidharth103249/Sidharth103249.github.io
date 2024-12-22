@@ -1,12 +1,12 @@
 # Engineering Solutions for Industry 4.0 & Digitalization
 Technische Fertigkeiten: Visual Studio 2022, VSCode, Python, Azure IOT, MATLAB, Microsoft Office
-## Education
+## Ausbildung
 - M.Sc., Networked Production Engineering      RWTH Universität, Aachen\
 „Industrie 4.0"- gesteuerte Produktion und Steuerung von Produktionsprozessen, Einführung in die agile Produktion, fortschreitende Automatisierung und modellbasierte Systemtechnik
 <hr style="border: 0.5px solid gray; width: 50%;">
 - B.Sc., Automotive Engineering      Anna Universität, Indien
 
-## Work Experience
+## Berufserfahrung
 ### Wissenschaftliche Hilfskraft @ Fraunhofer-Institut für Produktionstechnologie (Apr 2023 - Mär 2024)
 Mitwirkung an Digitalisierungsprojekten und Smart-Factory-Initiativen:
 -	Dashboard-Neugestaltung und Datenintegration: Optimierung der Dashboard-Oberfläche und Migration der Datenbank von InfluxDB zu MongoDB zur Verbesserung der Echtzeitüberwachung. Behebung eines API-Fehlers zur Sicherstellung einer nahtlosen Sensordatenübertragung und 100 % Datenflusszuverlässigkeit.
