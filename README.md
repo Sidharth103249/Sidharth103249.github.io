@@ -31,4 +31,4 @@ Fabrikprojektplan/-konzept für Tesla: Dieses Projekt konzentriert sich auf Mark
 
 ### Digital Twin of living environemnt (Personal Project) (Dec 2024 - Heute)
 Aufbau eines digitalen Zwillings für die Wohnumgebung mit ESP32 und maschinellem Lernen
-- erste Schritte zur Implementierung von Systemen zur Überwachung und Vorhersage des Raumtemperaturverhaltens für verbesserten Komfort und Energieeffizienz eingeleitet.
+- Erste Schritte zur Implementierung von Systemen zur Überwachung und Vorhersage des Raumtemperaturverhaltens für verbesserten Komfort und Energieeffizienz eingeleitet.
