@@ -1,0 +1,28 @@
+### **Digital Twin for Smart Home Environment** *(Ongoing)*
+
+- **Objective**: Develop an advanced **Digital Twin** of a smart home environment to enhance comfort, automate manual processes, and optimize energy efficiency using IoT and machine learning technologies.
+- **Key Features**:
+    - **Sensor Integration**:
+        - Temperature and motion sensors to collect real-time environmental data.
+        - Integration with smart bulbs and actuators for automated lighting and heating control.
+    - **Data Visualization**:
+        - Utilizing **Azure IoT Hub** for cloud-based storage and visualization of historical and real-time usage data.
+        - Creating interactive dashboards to track energy consumption and system performance.
+    - **Machine Learning**:
+        - Leveraging historical data to train models that predict optimal room temperatures under varying conditions.
+        - Implementing algorithms to dynamically adjust heating systems via actuators for energy-efficient operations.
+    - **Automation**:
+        - Automating manual heating systems based on predictive analytics and environmental changes.
+        - Providing advanced home automation features to improve user convenience and sustainability.
+- **Technologies Used**:
+    - **ESP32 Microcontrollers** for IoT device control and communication.
+    - **Azure IoT Hub** for cloud data storage, processing, and visualization.
+    - **Python** for machine learning model development and system integration.
+    - **Actuators and Smart Bulbs** for implementing automated control mechanisms.
+- **Current Progress**:
+    - Sensor integration for data collection is in progress.
+    - Cloud system setup and initial data visualization are under development.
+- **Future Plans**:
+    - Refine machine learning models for better temperature prediction accuracy.
+    - Implement actuator-based automation for a fully autonomous heating system.
+    - Expand functionalities to monitor additional parameters like humidity and air quality.
