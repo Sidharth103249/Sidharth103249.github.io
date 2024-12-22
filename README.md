@@ -17,6 +17,7 @@ Mitwirkung an Digitalisierungsprojekten und Smart-Factory-Initiativen:\
 - Untersuchte den Zusammenhang zwischen Prozesskräften und Produktqualität im Feinschneiden unter Verwendung von maschinellen Lerntechniken.
 
 ## Projekte
+
 ### Intelligente Überwachung von technischen Systemen
 Entwickelte ein maschinelles Lernverfahren zur Identifikation von Materialien, die auf einer CNC-Fräsmaschine verarbeitet werden, durch Analyse von hochfrequenten Vibrationsdaten von IMUs mit einer Abtastrate von 1600 Hz. Das System nutzte die Zeit-Frequenz-Analyse, um wesentliche Signalmerkmale zu extrahieren und eine zuverlässige Materialklassifizierung in Echtzeit zu ermöglichen.\
 ![CNC](https://github.com/user-attachments/assets/8e45ddac-6988-4800-ae80-85f92ab6ac1c)
