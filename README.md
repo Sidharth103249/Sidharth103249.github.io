@@ -10,9 +10,9 @@ RWTH Universität, Aachen - www.rwth-aachen.de\
 Wissenschaftliche Hilfskraft @ Fraunhofer-Institut für Produktionstechnologie (Apr 2023 - Mär 2024)
 
 Mitwirkung an Digitalisierungsprojekten und Smart-Factory-Initiativen:
-Dashboard-Neugestaltung und Datenintegration: Optimierung der Dashboard-Oberfläche und Migration der Datenbank von InfluxDB zu MongoDB zur Verbesserung der Echtzeitüberwachung. Behebung eines API-Fehlers zur Sicherstellung einer nahtlosen Sensordatenübertragung und 100 % Datenflusszuverlässigkeit.\
-Hardware-Integration und Automatisierung: Integration von Distanzmesssensoren mit Beckhoff IPCs und Automatisierung des Softwarestarts mittels TwinCAT.\
-Maschinenkonnektivität und Systemfeedback: Wiederherstellung der Verbindung zwischen Beckhoff IPC und Siemens 5-Achs-Maschine zur Unterstützung hochpräziser Fertigung und Echtzeit-Fehlerüberwachung über das Dashboard.\
+•	Dashboard-Neugestaltung und Datenintegration: Optimierung der Dashboard-Oberfläche und Migration der Datenbank von InfluxDB zu MongoDB zur Verbesserung der Echtzeitüberwachung. Behebung eines API-Fehlers zur Sicherstellung einer nahtlosen Sensordatenübertragung und 100 % Datenflusszuverlässigkeit.\
+•	Hardware-Integration und Automatisierung: Integration von Distanzmesssensoren mit Beckhoff IPCs und Automatisierung des Softwarestarts mittels TwinCAT.\
+•	Maschinenkonnektivität und Systemfeedback: Wiederherstellung der Verbindung zwischen Beckhoff IPC und Siemens 5-Achs-Maschine zur Unterstützung hochpräziser Fertigung und Echtzeit-Fehlerüberwachung über das Dashboard.\
 
 Master Arbeit @ WZL (Apr 2023 - Sep 2023)
 
