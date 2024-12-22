@@ -3,7 +3,7 @@
 ## Education
 - M.Sc., Networked Production Engineering      RWTH Universität, Aachen\
 „Industrie 4.0"- gesteuerte Produktion und Steuerung von Produktionsprozessen, Einführung in die agile Produktion, fortschreitende Automatisierung und modellbasierte Systemtechnik
-<hr style="border: 0.5px solid gray; width: 100%;">
+<hr style="border: 0.5px solid gray; width: 50%;">
 - B.Sc., Automotive Engineering      Anna Universität, Indien
 
 ## Work Experience
