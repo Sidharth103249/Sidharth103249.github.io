@@ -1,0 +1,9 @@
+Libraries:
+Azure SDK for C
+DallasTemperature
+ESP32MQTTClient
+OneWire
+PubSubClient
+
+Board:
+esp32 by Espressif Systems
