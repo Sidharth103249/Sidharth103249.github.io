@@ -32,7 +32,10 @@ Fabrikprojektplan/-konzept für Tesla: Dieses Projekt konzentriert sich auf Mark
 ### Digital Twin of living environemnt (Personal Project) (Dec 2024 - Heute)
 ![1625730457154](https://github.com/user-attachments/assets/99abf0de-1183-451b-bae1-ff55fcc3b686)
 
+Dieses Projekt demonstriert den Prototyp eines digitalen Zwillings einer Wohnumgebung. Ziel ist es, ein virtuelles Abbild eines physischen Objekts mit Echtzeit-Zwei-Wege-Kommunikation zwischen der physischen und der virtuellen Welt zu schaffen.
+Dieser Prototyp konzentriert sich auf:
+- Echtzeitüberwachung von Umgebungsdaten (z. B. Temperatur, Bewegung, Lichtstatus).
+- Interaktive Steuerung von Raumelementen über ein virtuelles 3D-Modell.
 
-Aufbau eines digitalen Zwillings für die Wohnumgebung mit ESP32 und maschinellem Lernen
-- Erste Schritte zur Implementierung von Systemen zur Überwachung und Vorhersage des Raumtemperaturverhaltens für verbesserten Komfort und Energieeffizienz eingeleitet.
+Übersetzt mit DeepL.com (kostenlose Version)
 <hr style="border: 0.2px solid gray; width: 50%;">
