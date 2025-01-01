@@ -1,28 +1,67 @@
-### **Digital Twin for Smart Home Environment** *(Ongoing)*
+# Prototype Digital Twin of Home Environment
 
-- **Objective**: Develop an advanced **Digital Twin** of a smart home environment to enhance comfort, automate manual processes, and optimize energy efficiency using IoT and machine learning technologies.
-- **Key Features**:
-    - **Sensor Integration**:
-        - Temperature and motion sensors to collect real-time environmental data.
-        - Integration with smart bulbs and actuators for automated lighting and heating control.
-    - **Data Visualization**:
-        - Utilizing **Azure IoT Hub** for cloud-based storage and visualization of historical and real-time usage data.
-        - Creating interactive dashboards to track energy consumption and system performance.
-    - **Machine Learning**:
-        - Leveraging historical data to train models that predict optimal room temperatures under varying conditions.
-        - Implementing algorithms to dynamically adjust heating systems via actuators for energy-efficient operations.
-    - **Automation**:
-        - Automating manual heating systems based on predictive analytics and environmental changes.
-        - Providing advanced home automation features to improve user convenience and sustainability.
-- **Technologies Used**:
-    - **ESP32 Microcontrollers** for IoT device control and communication.
-    - **Azure IoT Hub** for cloud data storage, processing, and visualization.
-    - **Python** for machine learning model development and system integration.
-    - **Actuators and Smart Bulbs** for implementing automated control mechanisms.
-- **Current Progress**:
-    - Sensor integration for data collection is in progress.
-    - Cloud system setup and initial data visualization are under development.
-- **Future Plans**:
-    - Refine machine learning models for better temperature prediction accuracy.
-    - Implement actuator-based automation for a fully autonomous heating system.
-    - Expand functionalities to monitor additional parameters like humidity and air quality.
+## 🌟 Overview
+This project demonstrates a **prototype digital twin** of a home environment. The goal is to create a virtual representation of a physical object (a room in this case) with **real-time two-way communication** between the physical and virtual worlds.
+
+This prototype focuses on:
+1. **Real-time monitoring** of environmental data (e.g., temperature, motion, light status).
+2. **Interactive control** of room elements through a **3D virtual model**.
+
+---
+
+## 🤔 What Are Digital Twins?
+Digital twins are virtual representations of physical objects that simulate the real-world state in real time. While definitions vary, a common understanding is that a digital twin:
+- **Replicates real-world objects**, processes, or systems in a virtual environment.
+- **Allows two-way communication**, enabling monitoring and control of the physical object.
+
+### Key Benefits of Digital Twins:
+- Reduce costs during design, testing, and operational phases.
+- Improve understanding of behavior under different conditions.
+- Enable better decision-making through simulations and real-time data.
+
+This project explores these benefits in a home environment, using a single room as a testbed for digital twin functionality.
+
+---
+
+## 🚀 Features
+### Current Capabilities:
+1. **Real-Time Monitoring**:
+   - Light status.
+   - Motion detection.
+   - Temperature (indoor and outdoor).
+2. **Interactive Controls**:
+   - Turn lights on/off via a 3D model.
+   - Automate light brightness based on sundown time.
+   - Activate night lamps during predefined times.
+   - Dynamically manage lights using motion detection.
+
+### Future Expansion Ideas:
+- Extend the 3D model to represent an entire house.
+- Monitor soil moisture levels for houseplants with reminders to water.
+- Optimize temperature and heater settings for comfort and energy efficiency.
+- Improve lighting controls for multi-occupancy scenarios.
+
+---
+
+## 🛠️ Setup Instructions
+### Prerequisites
+1. **Hardware**:
+   - ESP32 microcontroller.
+2. **Software**:
+   - [Visual Studio Code (VSCode)](https://code.visualstudio.com/) for general programming.
+   - [Arduino IDE](https://www.arduino.cc/en/software) for ESP32 programming.
+3. **Azure Account**:
+   - Ensure the following services are set up in your Azure account:
+     - **IoT Hub**
+     - **IoT Central**
+     - **Azure Digital Twins**
+     - **Azure Blob Storage**
+   - Generate **Shared Access Signatures (SAS)** and note the primary and secondary keys for these services.
+
+---
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/digital-twin-project.git
+   cd digital-twin-project
