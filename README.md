@@ -19,7 +19,7 @@ Mitwirkung an Digitalisierungsprojekten und Smart-Factory-Initiativen:
 - Untersuchte den Zusammenhang zwischen Prozesskräften und Produktqualität im Feinschneiden unter Verwendung von maschinellen Lerntechniken.
 
 ## Projekte
-### Digital Twin of living environemnt (Personal Project) (Dec 2024 - Heute)
+### Digitaler Zwilling für das Wohnumfeld (Personal Projekt) (Dec 2024)
 ![1625730457154](https://github.com/user-attachments/assets/99abf0de-1183-451b-bae1-ff55fcc3b686)
 
 Dieses Projekt demonstriert den Prototyp eines digitalen Zwillings einer Wohnumgebung. Ziel ist es, ein virtuelles Abbild eines physischen Objekts mit Echtzeit-Zwei-Wege-Kommunikation zwischen der physischen und der virtuellen Welt zu schaffen.
