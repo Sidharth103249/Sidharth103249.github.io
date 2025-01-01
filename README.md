@@ -30,7 +30,9 @@ Entwickelte ein maschinelles Lernverfahren zur Identifikation von Materialien, d
 Fabrikprojektplan/-konzept für Tesla: Dieses Projekt konzentriert sich auf Marktanalyse, Standortplanung, Produktionsstrukturplanung, Kapazitätsplanung, Gebäude- und Fabrikstrukturplanung.
 <hr style="border: 0.2px solid gray; width: 50%;">
 ### Digital Twin of living environemnt (Personal Project) (Dec 2024 - Heute)
-![1625730457154](https://github.com/user-attachments/assets/c6fa554b-2b55-45a8-9c43-b7f2235ec424)
+![1625730457154](https://github.com/user-attachments/assets/99abf0de-1183-451b-bae1-ff55fcc3b686)
+
+
 Aufbau eines digitalen Zwillings für die Wohnumgebung mit ESP32 und maschinellem Lernen
 - Erste Schritte zur Implementierung von Systemen zur Überwachung und Vorhersage des Raumtemperaturverhaltens für verbesserten Komfort und Energieeffizienz eingeleitet.
 <hr style="border: 0.2px solid gray; width: 50%;">
