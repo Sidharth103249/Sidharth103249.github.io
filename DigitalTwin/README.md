@@ -63,5 +63,5 @@ This project explores these benefits in a home environment, using a single room 
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/digital-twin-project.git
+   git clone https://github.com/Sidharth103249/Sidharth103249.github.io.git
    cd digital-twin-project
