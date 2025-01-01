@@ -36,6 +36,4 @@ Dieses Projekt demonstriert den Prototyp eines digitalen Zwillings einer Wohnumg
 Dieser Prototyp konzentriert sich auf:
 - Echtzeitüberwachung von Umgebungsdaten (z. B. Temperatur, Bewegung, Lichtstatus).
 - Interaktive Steuerung von Raumelementen über ein virtuelles 3D-Modell.
-
-Übersetzt mit DeepL.com (kostenlose Version)
 <hr style="border: 0.2px solid gray; width: 50%;">
