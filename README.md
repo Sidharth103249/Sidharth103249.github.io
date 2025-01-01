@@ -1,5 +1,5 @@
 # Engineering Solutions for Industry 4.0 & Digitalization
-Technische Fertigkeiten: Visual Studio 2022, VSCode, Python, Azure IOT, MATLAB, Microsoft Office
+Technische Fertigkeiten: Digital Twin, Azure IOT Cloud, MATLAB, Machine Learning, Digitalisierung
 ## Ausbildung
 - M.Sc., Networked Production Engineering - RWTH Universität, Aachen\
 „Industrie 4.0"- gesteuerte Produktion und Steuerung von Produktionsprozessen, Einführung in die agile Produktion, fortschreitende Automatisierung und modellbasierte Systemtechnik
@@ -19,7 +19,14 @@ Mitwirkung an Digitalisierungsprojekten und Smart-Factory-Initiativen:
 - Untersuchte den Zusammenhang zwischen Prozesskräften und Produktqualität im Feinschneiden unter Verwendung von maschinellen Lerntechniken.
 
 ## Projekte
+### Digital Twin of living environemnt (Personal Project) (Dec 2024 - Heute)
+![1625730457154](https://github.com/user-attachments/assets/99abf0de-1183-451b-bae1-ff55fcc3b686)
 
+Dieses Projekt demonstriert den Prototyp eines digitalen Zwillings einer Wohnumgebung. Ziel ist es, ein virtuelles Abbild eines physischen Objekts mit Echtzeit-Zwei-Wege-Kommunikation zwischen der physischen und der virtuellen Welt zu schaffen.
+Dieser Prototyp konzentriert sich auf:
+- Echtzeitüberwachung von Umgebungsdaten (z. B. Temperatur, Bewegung, Lichtstatus).
+- Interaktive Steuerung von Raumelementen über ein virtuelles 3D-Modell.
+<hr style="border: 0.2px solid gray; width: 50%;">
 ### Intelligente Überwachung von technischen Systemen @ RWTH (Apr 2021 - Jul 2021)
 Entwickelte ein maschinelles Lernverfahren zur Identifikation von Materialien, die auf einer CNC-Fräsmaschine verarbeitet werden, durch Analyse von hochfrequenten Vibrationsdaten von IMUs mit einer Abtastrate von 1600 Hz. Das System nutzte die Zeit-Frequenz-Analyse, um wesentliche Signalmerkmale zu extrahieren und eine zuverlässige Materialklassifizierung in Echtzeit zu ermöglichen.\
 ![CNC](https://github.com/user-attachments/assets/8e45ddac-6988-4800-ae80-85f92ab6ac1c)
@@ -28,12 +35,4 @@ Entwickelte ein maschinelles Lernverfahren zur Identifikation von Materialien, d
 <hr style="border: 0.2px solid gray; width: 50%;">
 ### Fabrikplannung @ RWTH (May 2021 - June 2021)
 Fabrikprojektplan/-konzept für Tesla: Dieses Projekt konzentriert sich auf Marktanalyse, Standortplanung, Produktionsstrukturplanung, Kapazitätsplanung, Gebäude- und Fabrikstrukturplanung.
-<hr style="border: 0.2px solid gray; width: 50%;">
-### Digital Twin of living environemnt (Personal Project) (Dec 2024 - Heute)
-![1625730457154](https://github.com/user-attachments/assets/99abf0de-1183-451b-bae1-ff55fcc3b686)
-
-Dieses Projekt demonstriert den Prototyp eines digitalen Zwillings einer Wohnumgebung. Ziel ist es, ein virtuelles Abbild eines physischen Objekts mit Echtzeit-Zwei-Wege-Kommunikation zwischen der physischen und der virtuellen Welt zu schaffen.
-Dieser Prototyp konzentriert sich auf:
-- Echtzeitüberwachung von Umgebungsdaten (z. B. Temperatur, Bewegung, Lichtstatus).
-- Interaktive Steuerung von Raumelementen über ein virtuelles 3D-Modell.
 <hr style="border: 0.2px solid gray; width: 50%;">
