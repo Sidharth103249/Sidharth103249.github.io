@@ -48,7 +48,7 @@ thread.start()
 async def toggle_bulb():
     # Create an ApiClient instance for controlling the Tapo bulb
     client = ApiClient("********", "**************")
-    device = await client.l530("192.168.0.62")
+    device = await client.l530("************")
 
     # Retrieve current device information
     device_info = await device.get_device_info()
