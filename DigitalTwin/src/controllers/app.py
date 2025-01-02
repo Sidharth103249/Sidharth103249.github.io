@@ -12,7 +12,7 @@ CORS(app)  # Enable CORS for all routes
 # Environment Variables (For Security, you should store these safely)
 TAPO_USERNAME = "************"
 TAPO_PASSWORD = "*********"
-TAPO_IP = "192.168.0.62"
+TAPO_IP = "*************"
 
 # Global variable to store the latest temperature
 latest_weather = {"temperature": None, "unit": None, "description": None}
@@ -24,7 +24,7 @@ def webscrape():
         print("inside webscrape")        
         s = HTMLSession()
         url = f'https://www.google.com/search?q=weather+aachen'
-        r = s.get(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'})
+        r = s.get(url, headers={'User-Agent': '**'})
         temp = r.html.find('span#wob_tm', first=True).text
         unit = r.html.find('div.vk_bk.wob-unit span.wob_t', first=True).text
         desc = r.html.find('div.VQF4g', first=True).find('span#wob_dc', first=True).text
@@ -47,7 +47,7 @@ thread.start()
 
 async def toggle_bulb():
     # Create an ApiClient instance for controlling the Tapo bulb
-    client = ApiClient("krishsid1997@gmail.com", "AdaPoda@123")
+    client = ApiClient("********", "**************")
     device = await client.l530("192.168.0.62")
 
     # Retrieve current device information
