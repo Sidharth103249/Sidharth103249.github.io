@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "Vodafone-2333";
-const char* password = "Fer7DeppRUENNgM8";
+const char* ssid = "***********";
+const char* password = "***************";
 const int motionSensorPin = 4; // Pin where PIR sensor is connected
 unsigned long lastMotionTime = 0; // Time of the last motion detection
 const unsigned long motionCooldown = 10000; // 5 seconds cooldown period
@@ -30,7 +30,7 @@ int sensorState = digitalRead(motionSensorPin); // Read motion sensor state
 
       // Send motion data to the Flask server
       HTTPClient http;
-      http.begin("http://192.168.0.108:5000/motion");
+      http.begin("http://************/motion");
       http.addHeader("Content-Type", "application/json");
 
       String payload = "{\"motionDetection\": 1}";
