@@ -29,7 +29,7 @@ void loop() {
     
     //Send data to server
     HTTPClient http;
-    http.begin("http://192.168.0.108:5000/temperature");
+    http.begin("http://*************/temperature");
     http.addHeader("Content-Type", "application/json");
     String jsonPayload = String("{\"temperature\":") + String(temperature) + "}";
      int httpResponseCode = http.POST(jsonPayload);
