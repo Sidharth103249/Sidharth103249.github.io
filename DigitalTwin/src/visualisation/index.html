@@ -92,7 +92,7 @@
 
 
 function syncLightStatus() {
-    fetch('http://127.0.0.1:5000/light_status')  // Make the GET request to Flask
+    fetch('http://*******/light_status')  // Make the GET request to Flask
         .then(response => response.json())  // Parse the response as JSON
         .then(data => {
             // Log the light status to debug and verify it
@@ -134,7 +134,7 @@ setInterval(syncLightStatus, 1000);  // Sync every 1000ms (1 second)
 
                 function lightControl(state) {
                     const dataq = { click_data: state }; // Use the passed parameter ("on" or "off")
-                    fetch('http://127.0.0.1:5000/lightControl', { // Use your Flask endpoint here
+                    fetch('http://************/lightControl', { // Use your Flask endpoint here
                         method: 'POST',
                         headers: { 'Content-Type': 'application/json' },
                         body: JSON.stringify(dataq)
@@ -160,7 +160,7 @@ setInterval(syncLightStatus, 1000);  // Sync every 1000ms (1 second)
 
 async function fetchTemperature() {
     try {
-        const response = await fetch('http://127.0.0.1:5000/temperature');
+        const response = await fetch('http://************/temperature');
         const data = await response.json();
         if (data.temperature !== undefined) {
             console.log(`Temperature: ${data.temperature} °C`);
@@ -193,7 +193,7 @@ function updateTemperatureDisplay(temp) {
 async function fetchWeather() {
     console.log("Inside fetchWeater function");
     try {
-        const response = await fetch('http://127.0.0.1:5000/weather');
+        const response = await fetch('http://**********/weather');
         const weatherData = await response.json();
         console.log('Raw weatherData:', weatherData);
         // Ensure that data is in the correct format and return it
