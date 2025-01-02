@@ -10,8 +10,8 @@ app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
 # Environment Variables (For Security, you should store these safely)
-TAPO_USERNAME = "krishsid1997@gmail.com"
-TAPO_PASSWORD = "AdaPoda@123"
+TAPO_USERNAME = "************"
+TAPO_PASSWORD = "*********"
 TAPO_IP = "192.168.0.62"
 
 # Global variable to store the latest temperature
