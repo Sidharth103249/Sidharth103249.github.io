@@ -92,7 +92,6 @@ static bool led1_on = false;
 static bool led2_on = false;
 
 /* --- Function Prototypes --- */
-/* Please find the function implementations at the bottom of this file */
 static int generate_telemetry_payload(
     uint8_t* payload_buffer,
     size_t payload_buffer_size,
@@ -428,9 +427,6 @@ static int generate_properties_update_response(
   azrc = az_iot_hub_client_properties_writer_end_response_status(&azure_iot->iot_hub_client, &jw);
   EXIT_IF_AZ_FAILED(
       azrc, RESULT_ERROR, "Failed closing status section in properties update response.");
-
-  // This Azure PnP Template does not have a named component,
-  // so az_iot_hub_client_properties_writer_end_component is not needed.
 
   azrc = az_json_writer_append_end_object(&jw);
   EXIT_IF_AZ_FAILED(azrc, RESULT_ERROR, "Failed closing json in properties update response.");
