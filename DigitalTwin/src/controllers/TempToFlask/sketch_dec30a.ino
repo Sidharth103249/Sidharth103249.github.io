@@ -6,8 +6,8 @@
 #define ONE_WIRE_BUS 4
 OneWire oneWire(ONE_WIRE_BUS);
 DallasTemperature sensors(&oneWire); 
-const char* ssid = "Vodafone-2333";
-const char* password = "Fer7DeppRUENNgM8";
+const char* ssid = "********";
+const char* password = "******";
 
 void setup() {
 
