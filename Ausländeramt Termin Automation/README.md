@@ -1,2 +1,1 @@
-A Chromium web automation program that searches for deleted appointments every minute which are now available in the upcoming days and notifies the user within 10 seconds.
-Future releases might include a Telegram Bot if it is faster.
+A Chromium web automation program that searches every minute for deleted appointments which are now available for the upcoming days and notifies the user the next second via a telegram bot. This is faster than sending an email.
