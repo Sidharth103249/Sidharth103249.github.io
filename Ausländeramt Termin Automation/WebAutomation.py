@@ -3,30 +3,14 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import smtplib
-from email.mime.text import MIMEText
 from multiprocessing import Process
 
-def send_email_notification(subject, body):
-
-    sender_email = ""
-    receiver_email = ""
-    app_password = ""
-
-    msg = MIMEText(body)
-    msg["Subject"] = subject
-    msg["From"] = sender_email
-    msg["To"] = receiver_email
-    
-    try:
-        server = smtplib.SMTP("smtp.gmail.com", 587)
-        server.starttls()  # Secure connection
-        server.login(sender_email, app_password)
-        server.sendmail(sender_email, receiver_email, msg.as_string())
-        server.quit()
-        print("Email sent successfully!")
-    except Exception as e:
-        print(f"Failed to send email: {e}")
+def send_telegram_notification(message):
+    TELEGRAM_BOT_TOKEN = ""
+    TELEGRAM_CHAT_ID = "" 
+    url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    data = {"chat_id": TELEGRAM_CHAT_ID, "text": message}
+    requests.post(url, data=data)
 
 def check_appointment_1():
     driver = webdriver.Chrome()
