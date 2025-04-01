@@ -1,2 +1,2 @@
-Wordle automation - Solves the wordle puzzle everyday automatically. 
+Wordle automation - Solves the NY Times wordle puzzle everyday automatically. 
 In progress. Problem-solving in second row.
