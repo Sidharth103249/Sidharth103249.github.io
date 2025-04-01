@@ -1,6 +1,6 @@
 # Prototype Digital Twin of Home Environment
 
-## 🌟 Overview
+##  Overview
 This project demonstrates a **prototype digital twin** of a home environment. The goal is to create a virtual representation of a physical object (a room in this case) with **real-time two-way communication** between the physical and virtual worlds.
 
 This prototype focuses on:
@@ -9,7 +9,7 @@ This prototype focuses on:
 
 ---
 
-## 🤔 What Are Digital Twins?
+##  What Are Digital Twins?
 Digital twins are virtual representations of physical objects that simulate the real-world state in real time. While definitions vary, a common understanding is that a digital twin:
 - **Replicates real-world objects**, processes, or systems in a virtual environment.
 - **Allows two-way communication**, enabling monitoring and control of the physical object.
@@ -23,7 +23,7 @@ This project explores these benefits in a home environment, using a single room 
 
 ---
 
-## 🚀 Features
+##  Features
 ### Current Capabilities:
 1. **Real-Time Monitoring**:
    - Light status.
@@ -43,7 +43,7 @@ This project explores these benefits in a home environment, using a single room 
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 ### Prerequisites
 1. **Hardware**:
    - ESP32 microcontroller.
