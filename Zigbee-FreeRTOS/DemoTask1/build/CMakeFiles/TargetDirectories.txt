@@ -1,0 +1,2 @@
+C:/Users/sidha/Documents/PlatformIO/Projects/FreeRTOS/Zigbee/DemoTask1/build/CMakeFiles/edit_cache.dir
+C:/Users/sidha/Documents/PlatformIO/Projects/FreeRTOS/Zigbee/DemoTask1/build/CMakeFiles/rebuild_cache.dir
