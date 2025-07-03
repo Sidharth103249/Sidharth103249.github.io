@@ -7,7 +7,7 @@
 - **Visualization Layer:** Grafana dashboard
 
 ## Data Flow
-
+- PLC (TIA) → OPC UA → Python Bridge → InfluxDB → Grafana
 ## Modularity
 - `opcua_to_influx.py` is isolated; can be swapped for MQTT or Azure SDK
 - TIA DB variables designed for external interface access
