@@ -11,7 +11,7 @@
 ## Modularity
 - `opcua_to_influx.py` is isolated; can be swapped for MQTT or Azure SDK
 - TIA DB variables designed for external interface access
-- 
+  
 ### Component: REST-OPC Bridge (opc_rest_api.py)
 - Technology: Python (Flask + FreeOpcUa)
 - Role: Accepts HTTP POSTs to flip `MotionDetected` tag
