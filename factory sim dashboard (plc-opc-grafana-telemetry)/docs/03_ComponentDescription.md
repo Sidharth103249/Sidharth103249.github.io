@@ -59,7 +59,3 @@ Exposes a REST endpoint to allow toggling of `MotionDetected` via HTTP.
 
 **Use Case:**  
 Allows test tools or external dashboards to simulate sensor input
-
-**API Example:**
-```bash
-curl -X POST http://localhost:5000/motion
