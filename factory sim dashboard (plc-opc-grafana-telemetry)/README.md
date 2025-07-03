@@ -3,7 +3,7 @@
 This project demonstrates a full-stack simulation of a factory telemetry system — from PLC logic to real-time dashboards — using OPC UA as the data backbone.
 [Watch my visual walkthrough of the pipeline on YouTube](https://youtu.be/iq41lGUyn7w)
 
-![Dashboard](https://Sidharth103249.github.io/factory-sim-dashboard/assets/image/dashboard.png)
+![dashboard](https://Sidharth103249.github.io/factory-sim-dashboard/assets/image/dashboard.png)
 
 ##  Stack
 - Siemens S7-1500 logic (TIA Portal, simulated)
