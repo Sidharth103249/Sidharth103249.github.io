@@ -1,6 +1,7 @@
 # Industrial Telemetry Visualization: Siemens PLC TIA + OPC UA + Grafana
 
 This project demonstrates a full-stack simulation of a factory telemetry system — from PLC logic to real-time dashboards — using OPC UA as the data backbone.
+For a vidual walkthrough of the pipeline, click here. https://youtu.be/iq41lGUyn7w
 
 ##  Stack
 - Siemens S7-1500 logic (TIA Portal, simulated)
