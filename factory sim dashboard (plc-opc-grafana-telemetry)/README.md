@@ -7,7 +7,7 @@ This project demonstrates a full-stack simulation of a factory telemetry system 
 - PLCSIM Advanced (OPC UA server)
 - Python (opcua → InfluxDB)
 - Grafana (real-time visualization)
-- Optional: ESP32 edge sensor stream
+- ESP32 edge sensor stream
 
 ##  Goals
 - Simulate a realistic tank/pump process
