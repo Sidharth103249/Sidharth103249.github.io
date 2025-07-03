@@ -1,25 +1,65 @@
-# Component Description
+# 03_ComponentDescription.md
 
-## Component: TankControlLogic
-- Language: TIA SCL
-- Inputs: MotionDetected (Bool), TempAlarm (Bool)
-- Outputs: PumpOn (Bool), Level (Real)
+## Overview
 
-## Component: OPC_UA_Client
-- Technology: Python + FreeOpcUa
-- Function: Poll selected DB tags at 1s interval
+This document describes the primary components of the telemetry simulation system. Each component is listed with its role, interfaces, and core functions.
 
-## Component: Grafana_Dashboard
-- Panels: Level, Pump Status, Alarms
-- Data Source: InfluxDB
+---
 
-## Component: opc_rest_api.py
+###  Component: TIA Portal PLC Project (`/tia_project/factory_sim.zip`)
 
-- Endpoint: `/motion` (HTTP POST)
-- Reads tag: `DB_Tank.MotionDetected` via OPC UA
-- Inverts Boolean and writes back to PLC
-- Use Case: External web system toggles simulated motion sensor
+**Role:**  
+Simulates an industrial tank system controlled by motion and temperature inputs.
 
-Example:
+**Functions:**
+- If `MotionDetected` is true, pump turns on.
+- Tank level increases while pump is on.
+- `TempAlarm` triggers alarm logic if temperature exceeds threshold.
+- All control logic is executed in `FC_TankControl`, called by `OB1`.
+
+**Inputs:**
+- `DB_Tank.MotionDetected` (Bool, from REST/ESP32)
+- `DB_Tank.TempAlarm` (Bool, from REST/ESP32)
+
+**Outputs:**
+- `DB_Tank.PumpOn` (Bool)
+- `DB_Tank.Level` (Real)
+
+**Interfaces:**
+- OPC UA (Read/Write, PLCSIM Advanced)
+
+---
+
+###  Component: OPC UA to InfluxDB Bridge (`/opc_bridge/opcua_to_influx.py`)
+
+**Role:**  
+Polls selected variables from the PLC via OPC UA and writes to InfluxDB.
+
+**Functions:**
+- Connects to `opc.tcp://localhost:4840`
+- Reads values from `DB_Tank.Level`, `PumpOn`, etc.
+- Converts values to InfluxDB line protocol
+- Writes into `factory_telemetry` measurement
+
+**Update Rate:**  
+1-second polling
+
+---
+
+###  Component: REST-to-OPC API (`/opc_bridge/opc_rest_api.py`)
+
+**Role:**  
+Exposes a REST endpoint to allow toggling of `MotionDetected` via HTTP.
+
+**Functions:**
+- HTTP POST `/motion` → connect to OPC UA
+- Reads current value of `DB_Tank.MotionDetected`
+- Inverts the value and writes it back
+- Disconnects cleanly
+
+**Use Case:**  
+Allows test tools or external dashboards to simulate sensor input
+
+**API Example:**
 ```bash
 curl -X POST http://localhost:5000/motion
