@@ -1,5 +1,5 @@
 # System Overview
-
+[Watch my visual walkthrough of the pipeline on YouTube](https://youtu.be/iq41lGUyn7w)
 ## Purpose
 This system simulates a factory telemetry environment using a Siemens PLC (S7-1500), PLCSIM Advanced (OPC UA Server), and Grafana dashboards.
 
